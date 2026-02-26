@@ -1,5 +1,3 @@
-
-**RohanBohra7/RohanBohra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Technical Introduction
 
 ## Overview
@@ -71,7 +69,7 @@ Each repository reflects my learning journey and improvement in writing structur
 
 ## Long-Term Direction
 - Master core Computer Science fundamentals
-- Become highly proficient in problem solving
+- Become highly proficient in problem-solving
 - Build real-world software systems with strong foundations
 - Prepare for high-quality technical roles requiring deep CS understanding
 
